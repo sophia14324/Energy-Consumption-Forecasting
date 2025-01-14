@@ -1,0 +1,17 @@
+DATA FRAMEWORK
+
+D – Define the Problem
+Clearly state the business or research question you aimed to solve.
+Example: “We wanted to predict customer churn to proactively retain high-value customers.”
+
+A – Approach / Methodology
+Outline the steps, models, and tools used—briefly but logically.
+Example: “We used CRISP-DM methodology, gathering customer usage data, cleaning it, and then applying a gradient boosting model to predict churn probability.”
+
+T – Tools / Techniques
+Highlight specific technologies and frameworks (e.g., Python, R, TensorFlow), emphasizing why they were suitable.
+Example: “We chose XGBoost for speed and interpretability. Our pipeline was built in Python using scikit-learn for preprocessing.”
+
+A – Achievements / Results
+Share outcome metrics, lessons learned, and the broader impact of the project.
+Example: “We achieved a 93% AUC, and by targeting the predicted churners with personalized promotions, we retained 40% of them. This led to an estimated $200k monthly revenue increase.”

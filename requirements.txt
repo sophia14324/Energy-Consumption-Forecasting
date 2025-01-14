@@ -1,0 +1,5 @@
+tensorflow2.13.0
+scikit-learn1.3.2
+pandas2.0.3
+numpy1.24.3
+joblib1.4.2
